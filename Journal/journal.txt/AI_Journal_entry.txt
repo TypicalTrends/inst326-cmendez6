@@ -5,14 +5,14 @@ Section: 0102
 
 Week 1
 I have used AI for basic tasks such as asking quesitons. I have started to use claude and so far
-I haven't had any complains with it so far. I asked it for some ideas for how to response to a discussion 
+I haven't had any complains with it so far. I asked it for some ideas for how to create a response to a discussion 
 for one of my class here is the link: https://claude.ai/share/7fa00960-195c-4e26-a71a-bbe6725d8e1a 
-I think that is has been very helpful into what I wanted to get out of it. I think it works a lot better than
-chatgpt or others. It was a lot more accurate and was very quick in the response. I worked more as a second
+It has been very helpful and very informative to what I wanted as being a good reply. I think it works a lot better than
+chatgpt or others. It was a lot more accurate and was very quick in generating. I works more as a second
 thinking partner. 
 
-I haven't tired it coding yet, but I did try it for sql stuff and it was a lot less accurate than what I expected
-I think it needs more work with that or I just was not detailed as I needed to be. I think it's an issue on my end 
+I haven't tired it for coding yet, but I did try it for sql stuff and it was a lot less accurate than what I expected.
+I think it needs more work with that or I just was not detailed enough as I needed to be. I think it's an issue on my end 
 since I wasn't understanding the problem myself enough. 
 
 
