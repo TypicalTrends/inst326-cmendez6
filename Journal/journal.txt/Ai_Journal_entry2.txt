@@ -6,4 +6,8 @@ Section: 0102
 
 Link to Chat:https://claude.ai/share/63819f51-240a-4a59-ae0e-c0e76d38c9da
 
-So I was using Ai this week to find some parts for my car
+So I was using Ai this week to find some headlight parts for my car. I haven't been using
+AI a lot lately. What I did was trying to compare parts and find lights that were affortable
+and worked. I found Claude and chatgpt to be very useful in my search. I just wished they would 
+provide links since I had to search them manually. I hope to use it this week for 
+assignments since I find it to be super useful, but also time effective. 
