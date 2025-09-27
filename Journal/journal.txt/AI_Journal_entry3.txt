@@ -1,0 +1,15 @@
+AI Usage Journal Entry #2
+Christopher Mendez
+cmendez6@umd.edu
+Section: 0102
+09/26/2025
+
+
+Link: https://claude.ai/share/412131ee-5fe9-4316-b546-86b2621c8e4e
+
+So for this week I used AI in some of my SQL assignments from a course. I was confused about a section of my query, so 
+I decided to use claude for suggestions. I find claude to be extremely useful when it comes to uploading photos. chatgpt
+in my experience does not provide a satisfying response even with all the photos submitted. chatgpt takes too long to process
+photos, maybe its just me but with claude I get more. Another thing is that claude gives multiple suggestions for an answer.
+I find this useful since it not vague and it remains simple. In the end I found what I was looking for. I think that using
+AI has saved me time with problems like these. 
