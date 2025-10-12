@@ -4,6 +4,7 @@ cmendez6@umd.edu
 Section: 0102
 
 Week 1
+
 I have used AI for basic tasks such as asking quesitons. I have started to use claude and so far
 I haven't had any complains with it so far. I asked it for some ideas for how to create a response to a discussion 
 for one of my class here is the link: https://claude.ai/share/7fa00960-195c-4e26-a71a-bbe6725d8e1a 
@@ -16,7 +17,7 @@ I think it needs more work with that or I just was not detailed enough as I need
 since I wasn't understanding the problem myself enough. 
 
 
-Week 2
+Week 2 (09/21/2025)
 
 Link to Chat:https://claude.ai/share/63819f51-240a-4a59-ae0e-c0e76d38c9da
 
@@ -26,7 +27,7 @@ and worked. I found Claude and chatgpt to be very useful in my search. I just wi
 provide links since I had to search them manually. I hope to use it this week for 
 assignments since I find it to be super useful, but also be time effective.  
 
-Week 3
+Week 3 (09/26/2025)
 
 Link: https://claude.ai/share/412131ee-5fe9-4316-b546-86b2621c8e4e
 
@@ -37,7 +38,7 @@ photos, maybe its just me but with claude I get more. Another thing is that clau
 I find this useful since it not vague and it remains simple. In the end I found what I was looking for. I think that using
 AI has saved me time with problems like these. 
 
-Week 4
+Week 4 (09/26/2025)
 
 
 Link from Chat: https://claude.ai/share/39439f73-77b0-4efc-ab86-bf06379db963
