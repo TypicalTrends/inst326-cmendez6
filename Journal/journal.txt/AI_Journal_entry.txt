@@ -16,6 +16,46 @@ I think it needs more work with that or I just was not detailed enough as I need
 since I wasn't understanding the problem myself enough. 
 
 
+Week 2
+
+Link to Chat:https://claude.ai/share/63819f51-240a-4a59-ae0e-c0e76d38c9da
+
+So I was using Ai this week to find some headlight parts for my car. I haven't been using
+AI a lot lately. What I did was try to compare parts and find lights that were affortable
+and worked. I found Claude and chatgpt to be very useful in my search. I just wished they would 
+provide links since I had to search them manually. I hope to use it this week for 
+assignments since I find it to be super useful, but also be time effective.  
+
+Week 3
+
+Link: https://claude.ai/share/412131ee-5fe9-4316-b546-86b2621c8e4e
+
+So for this week I used AI in some of my SQL assignments from a course. I was confused about a section of my query, so 
+I decided to use claude for suggestions. I find claude to be extremely useful when it comes to uploading photos. chatgpt
+in my experience does not provide a satisfying response even with all the photos submitted. chatgpt takes too long to process
+photos, maybe its just me but with claude I get more. Another thing is that claude gives multiple suggestions for an answer.
+I find this useful since it not vague and it remains simple. In the end I found what I was looking for. I think that using
+AI has saved me time with problems like these. 
+
+Week 4
 
 
+Link from Chat: https://claude.ai/share/39439f73-77b0-4efc-ab86-bf06379db963
 
+For this weeks AI use, I used for questions based on potatoes its random but not so random since its from a course I 
+was a bit confused on certain areas. I didn't realize the extra details on potatoes, and using AI it helped me answer
+some questions for an assignment. Overall, I have been using Claude daily more than googling. Its a lot more better
+and useful. since most of the assignment was based on pictures I used it to provide me more background on the photos.
+I think Claude does have flaws such as sometimes giving misleading information which is something I try to rectify. 
+
+Week 5 (10/11/25)
+
+Link for Chat: https://claude.ai/share/9021cfd9-7791-49f1-bdd5-40195df5697e
+
+For this week I used AI to summarize a reading for one of my classes. I just wanted some abstract based in the themes 
+on the reading. What I learned was that giving it a proper prompt gives you a very good abstract of the whole reading. 
+The reading was very long so what I did was ask it to summarize and to provide in text references. I found it to be very 
+useful since I can upload a pdf with a lot of pages and since have a decent summary of everything. I think that one of the 
+important things I found was that it was barely readable, most of the words were too specific which is fine but there was no
+need to use those types of terms anyways. So what I did was to rewrite/regenerate the prompt by asking it reading questions.
+I got a better response and more concise. It's a very useful feature and I see myself using this more often.  
