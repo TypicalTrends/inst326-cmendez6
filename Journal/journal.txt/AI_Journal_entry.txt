@@ -60,3 +60,13 @@ useful since I can upload a pdf with a lot of pages and since have a decent summ
 important things I found was that it was barely readable, most of the words were too specific which is fine but there was no
 need to use those types of terms anyways. So what I did was to rewrite/regenerate the prompt by asking it reading questions.
 I got a better response and more concise. It's a very useful feature and I see myself using this more often.  
+
+Week 6 (10/25/25)
+
+Link to Chat: https://claude.ai/share/f9a29570-59f8-4829-bf57-eff4b2a772b9
+
+For this week, I used AI to identify a plant by taking a photo, uploading it, and waiting for the results. As always, I used Claude, 
+but it was an incorrect move. I believe the Google Photos search feature was way better than what I got. I was looking for a certain plant, 
+and I first gave it a choice based on what I thought from a list. So it took that for granted and still made me believe that it was the same 
+plant, but the TA said otherwise. I don't think it's its fault, since I was giving it misinformation. I think that other AI software is 
+improving in quality, like Google.
