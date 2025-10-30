@@ -70,3 +70,17 @@ I used Claude, but it was an incorrect move. I believe the Google Photos search 
 looking for a certain plant, and I first gave it a choice based on what I thought from a list. So it took that for granted and
 still made me believe that it was the same plant, but the TA said otherwise. I don't think it's its fault, since I was giving 
 it misinformation. I think that other AI software is improving in quality, like Google. 
+
+Week 7 (10/29/25)
+
+Link to Chat: https://claude.ai/share/ba600380-a20e-423d-9198-cc66a85049b6
+
+For this week AI use I mostly used it for sql query writing. I did have an initial chat that I was going to share were I was forgot
+my password to access the root of all my data in workbench. It would have been good to share it for this week use of AI, since I go back
+and foward with the AI on so many errors and bugs. I clost the direct link for chat :(. I spent about one hour trying to reset my password,
+but at the end Claude was just like - reset the whole database and create a new instance, which I ended up doing. I think it just gave up with 
+the amount of error messages I was feeding it. At the end I gave up and started a new instance. I guess it wasn't that helpful since 
+I was trying to reset my password not the whole instance, I would have done that myself. I lost all the data I had. It was frustrating because 
+it would fix area of the command line prompt and not address the change for the rest. This serves as an example on how AI can sometimes just 
+cannot solve stuff like these. Its better to just get community help from sites like stack overflow. It has nothing to really do with the linked chat, 
+but its the aftermath of sloving this stupid hold up. 
