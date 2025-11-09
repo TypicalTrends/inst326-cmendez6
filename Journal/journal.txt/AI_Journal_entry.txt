@@ -84,3 +84,11 @@ I was trying to reset my password not the whole instance, I would have done that
 it would fix area of the command line prompt and not address the change for the rest. This serves as an example on how AI can sometimes just 
 cannot solve stuff like these. Its better to just get community help from sites like stack overflow. It has nothing to really do with the linked chat, 
 but its the aftermath of sloving this stupid hold up. 
+
+Week 8 (11/09/25)
+
+Link to Chat: https://claude.ai/share/fe75de4a-e974-4dbd-9b93-f6206d189ad6
+For this week, I had upcoming exams, and one way I found AI useful was through creating study guides. I was already given an outline of a study guide 
+for the course, but I felt like I could make something even better. I think that it did a much better job expanding most of these topics. I have used 
+ChatGPT for these types of situations, but what Claude does is create a whole new document that is much more fluent and easy to read/understand. 
+Claude is more understanding on a human level about the importance of exams. It even started to give me tips on how to approach questions given on the exams.
