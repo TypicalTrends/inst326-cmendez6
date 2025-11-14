@@ -92,3 +92,12 @@ For this week, I had upcoming exams, and one way I found AI useful was through c
 for the course, but I felt like I could make something even better. I think that it did a much better job expanding most of these topics. I have used 
 ChatGPT for these types of situations, but what Claude does is create a whole new document that is much more fluent and easy to read/understand. 
 Claude is more understanding on a human level about the importance of exams. It even started to give me tips on how to approach questions given on the exams.
+
+Week 9 (11/14/25)
+
+Link to Chat: https://claude.ai/share/a2b63b50-453e-4ad0-8326-1adc88f522da
+
+For this week, I used Claude to generate a map with different points and time periods. I found it interesting that most of what Claude generated was pretty bad, 
+but it helped in creating the general concept of how to make one. I don't think it's very smart to just take whatever Claude or any AI machine information as final. 
+The whole point is to integrate the information with your understanding alongside it. What I find very useful when I'm using Claude is uploading screenshots. 
+I know GPT and others have this feature, but I find it more useful when using it with Claude
