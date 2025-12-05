@@ -110,3 +110,12 @@ For this week, I used ChatGPT for some Excel work. I decided to use it since I w
 and prompts based on the assignments I had to do. What I found interesting about using the chat prompt was that ChatGPT would create a downloadable file in order for me 
 to check the one that it created. I found this to be very useful since it allowed me to go back and check my work with AI being there to correct any type of errors I had. 
 I think the most important thing about using AI this week was that it allowed me to view different solution options for my issue.
+
+Week 11 (12/04/25)
+
+Link to Chat: https://claude.ai/share/9b98842f-c834-483c-99fa-2988efbc237d
+
+For this week, I used Claude to help me imagine a good manufacturing location for semiconductors. This was part of a discussion post I needed to reply to. I have already 
+tried to generate maps with Claude, but I think that ChatGPT is better at generating anything. I would not trust Claude with this task. I didn't generate anything with this chat; 
+instead, I decided to find a map based on the area of Arizona. I always tend to give Claude more words relating to what I'm looking for out of a response. I think that using AI 
+has been very useful, especially for these discussion posts since they're very tedious.
