@@ -119,3 +119,11 @@ For this week, I used Claude to help me imagine a good manufacturing location fo
 tried to generate maps with Claude, but I think that ChatGPT is better at generating anything. I would not trust Claude with this task. I didn't generate anything with this chat; 
 instead, I decided to find a map based on the area of Arizona. I always tend to give Claude more words relating to what I'm looking for out of a response. I think that using AI 
 has been very useful, especially for these discussion posts since they're very tedious.
+
+Week 12 (12/14/25)
+
+Link to Chat: https://chatgpt.com/share/693f91b4-239c-8010-ab3f-394439ac5244
+
+Today I used ChatGPT to help me extract key takeaways from my visit to the US Botanic Garden. I wanted to organize my thoughts and highlights from the trip in a clear, digestible format. 
+The AI helped me structure the information and identify the most important points worth remembering from the experience. This was useful for both personal reflection and potentially sharing 
+with others who might be interested in visiting.
